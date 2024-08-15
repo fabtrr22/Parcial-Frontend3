@@ -1,0 +1,18 @@
+.card-container {
+    border: 2px solid #690a69;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #000000;
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .card-container h2 {
+    color: #333;
+  }
+  
+  .card-container p {
+    margin: 10px 0;
+  }
+  
